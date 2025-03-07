@@ -1,4 +1,4 @@
-These are simple systems build in #Spring Boot framework:
+These are simple CRUD operation systems with REST build in #Spring Boot framework:
 
 - Task tracker
 in this system you can read, create, update and delete task.
